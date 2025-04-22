@@ -1,8 +1,5 @@
 # 🛡️ 网络安全入门靶场仓库
 
-![GitHub最后提交](https://img.shields.io/github/last-commit/SmmnaBeta/Cybersecurity-Beginner-Lab?style=flat-square)
-![仓库大小](https://img.shields.io/github/repo-size/SmmnaBeta/Cybersecurity-Beginner-Lab?style=flat-square)
-
 ## 🎯 靶场内容
 本仓库包含以下漏洞练习环境：
 - **DVWA**：综合漏洞靶场（SQL/XSS/CSRF等）
@@ -24,9 +21,6 @@
 ---
 
 # 🛡️ Cybersecurity Beginner Lab
-
-![GitHub last commit](https://img.shields.io/github/last-commit/SmmnaBeta/Cybersecurity-Beginner-Lab?style=flat-square)
-![Repo size](https://img.shields.io/github/repo-size/SmmnaBeta/Cybersecurity-Beginner-Lab?style=flat-square)
 
 ## 🎯 Included Labs
 This repository contains:
