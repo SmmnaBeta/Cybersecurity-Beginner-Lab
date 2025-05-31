@@ -20,7 +20,7 @@
 ## ⚡ 快速开始 / Quick Start
 ### 开始 / Getting Started
 
-- [安装 VMware Workstation Pro]() / [Install VMware Workstation Pro]()
+- [安装 VMware Workstation Pro](https://blog.csdn.net/air__j/article/details/142798842?fromshare=blogdetail&sharetype=blogdetail&sharerId=142798842&sharerefer=PC&sharesource=weixin_42630498&sharefrom=from_link) / [Install VMware Workstation Pro](https://blog.csdn.net/air__j/article/details/142798842?fromshare=blogdetail&sharetype=blogdetail&sharerId=142798842&sharerefer=PC&sharesource=weixin_42630498&sharefrom=from_link)
 - 解压压缩包 / Extract the compressed package
 - 点击靶场.vmx / Click the "靶场.vmx" file
 
