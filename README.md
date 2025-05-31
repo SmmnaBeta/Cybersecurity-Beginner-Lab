@@ -69,6 +69,6 @@
 ## 📜 版本历史 / Version History
 - **V1.1**: 80端口基础版 / 80-port basic version（需通过快照恢复至【靶场 V1.1 快照 80 端口版】/ Need to restore to [靶场 V1.1 快照 80 端口版] snapshot）
 - **Current**: 8443端口HTTPS版 / 8443-port HTTPS version
-
+- 仍在努力更新中，努力解决构建中的一切兼容性问题。欢迎大家共同努力！
 ---
 
