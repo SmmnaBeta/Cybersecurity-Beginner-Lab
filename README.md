@@ -1,4 +1,4 @@
-# 🎯 网络安全新手实验室 / Cybersecurity Beginner Lab
+6# 🎯 网络安全新手实验室 / Cybersecurity Beginner Lab
 
 一个集成了多种Web安全测试环境的VMware本地化虚拟机靶场平台 / A VMware-based localized virtual machine platform integrating multiple web security testing environments  
 基于Ubuntu 22.04 系统搭建，包含DVWA、Pikachu、XSS-labs、sqli-labs等经典漏洞练习环境 / Built on Ubuntu 22.04 with classic vulnerability practice environments including DVWA, Pikachu, XSS-labs, sqli-labs, etc.
@@ -67,8 +67,8 @@
 2. 建议在隔离网络环境中使用 / Recommended to use in an isolated network environment
 
 ## 📜 版本历史 / Version History
-- **V1.1**: 80端口基础版 / 80-port basic version（需通过快照恢复至【靶场 V1.1 快照 80 端口版】/ Need to restore to [靶场 V1.1 快照 80 端口版] snapshot）
-- **Current**: 8443端口HTTPS版 / 8443-port HTTPS version
+- **V1.1 80**: 80端口基础版 / 80-port basic version（需通过快照恢复至【靶场 V1.1 快照 80 端口版】/ Need to restore to [靶场 V1.1 快照 80 端口版] snapshot）
+- **V1.1 8443**: 8443端口HTTPS版 / 8443-port HTTPS version
 - 仍在努力更新中，努力解决构建中的一切兼容性问题。欢迎大家共同努力！
 ---
 
