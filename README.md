@@ -65,7 +65,6 @@
 ## ⚠️ 注意事项 / Important Notes
 1. 首次访问需信任自签名SSL证书 / First access requires trusting the self-signed SSL certificate
 2. 建议在隔离网络环境中使用 / Recommended to use in an isolated network environment
-3. 所有服务密码请及时修改以保证安全 / Change all service passwords promptly for security
 
 ## 📜 版本历史 / Version History
 - **V1.1**: 80端口基础版 / 80-port basic version（需通过快照恢复至【靶场 V1.1 快照 80 端口版】/ Need to restore to [靶场 V1.1 快照 80 端口版] snapshot）
