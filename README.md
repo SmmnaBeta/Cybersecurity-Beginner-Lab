@@ -1,4 +1,4 @@
-<img width="1280" height="1280" alt="KomllSec" src="https://github.com/user-attachments/assets/5811d6f7-3f7c-42ef-92cf-33d882cbe477" />
+<img width="400" height="400" alt="KomllSec" src="https://github.com/user-attachments/assets/5811d6f7-3f7c-42ef-92cf-33d882cbe477" />
 
 🎯 网络安全新手实验室 / Cybersecurity Beginner Lab
 
